@@ -1,0 +1,1 @@
+Este es un readme de prueba en la computadora B para ver si choca con lo que tenemos en github
