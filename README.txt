@@ -5,4 +5,4 @@ RESPECTO AL USO DE GIT A TRAVÉS DE LA CONSOLA.
 
 ÚLTIMA ACTUALIZACIÓN: 24 DE MARZO DE 2017
 
-amending commits
+Agrego lo que olvidé en el último commit
